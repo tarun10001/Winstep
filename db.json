@@ -1,0 +1,93 @@
+{
+  "outlets": [
+    {
+      "id": 1,
+      "outlet": "Yo Bike Dealers",
+      "vehicles": [
+        {
+          "location": "jaipur",
+          "car": "mopad",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "maruti",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "kia",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "outlet": "KS Motors",
+      "vehicles": [
+        {
+          "location": "jaipur",
+          "car": "pol",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "chervolet",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "eco",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "outlet": "Binsar Motors",
+      "vehicles": [
+        {
+          "location": "jaipur",
+          "car": "splendor",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "honda",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "jaipur",
+          "car": "dream",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    }
+  ],
+  "userDetails": [
+    {
+      "name": "One Plus Nord buds",
+      "number": "1234",
+      "id": 1
+    },
+    {
+      "name": "One Plus Nord buds",
+      "number": "354",
+      "id": 2
+    },
+    {
+      "name": "dfhgf",
+      "number": "3225",
+      "id": 4
+    }
+  ]
+}
